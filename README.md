@@ -17,7 +17,6 @@ Como trabalho com infra e sistemas no dia a dia, meu foco aqui não é só fazer
 
 ## 🚀 Como eu rodo isso
 
-Se eu precisar subir esse lab em outro lugar (ou se você quiser testar), o processo é:
 1. Subir o container do SQL Server.
 2. Rodar o script de DDL para criar o schema.
 3. Rodar os scripts de carga (os inserts que tratei para não dar erro de conversão).
